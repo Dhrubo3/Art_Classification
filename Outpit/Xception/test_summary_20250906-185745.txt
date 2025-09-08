@@ -1,0 +1,3 @@
+Test Accuracy: 0.579256
+Num classes: 21
+Num test samples: 511
